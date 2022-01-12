@@ -1,0 +1,13 @@
+GET http://localhost:6999/get
+Content-Type: application/json
+
+###
+POST http://localhost:6999/post
+Content-Type: application/json
+
+{
+    "title" : "ramen daging paus",
+    "bahan" : "daki kuda",
+    "caption" : "ini enak loh",
+    "img_url" : "wwwsduahuiwhe"
+}
